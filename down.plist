@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.0.69/PoweredByMacOSX</string>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.0.69/PoweredByMacOSX</string>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>hello App download</string>
+				<string>XXXX App download</string>
 			</dict>
 		</dict>
 	</array>
